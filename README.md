@@ -11,3 +11,4 @@ A game of pomeczuxo is won when one player runs out of pieces or can't make anot
 The board starts clear, with no pomi on the board. 
 
 # Main loop
+On there turn, one may either place a pomeczo on the board, or move a pomeczi 
