@@ -1,0 +1,10 @@
+# Intro
+
+Pomeczi (pronounced POH-meh-chi) (short for pomeczuxo) is a board game designed by Ben Yi. The name is means "a collection of little friut" in lanrepunido, a conlang created by Kunsi-se, who also came up with the name. 
+
+# Description
+
+Pomeczi is ment to be played on a 4x4 grid with 2 players, but other grid sizes may be possible. Each player has 3 pomeczi, one large pomeczo, and two small pomeczi. The large ones take up 1x2 cells, while the small ones take up 1 cell.  
+
+# objective
+A game of pomecziuxo is won when one player runs out of peices or can't make another move.\
