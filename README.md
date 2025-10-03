@@ -14,8 +14,11 @@ The board starts clear, with no pomi on the board.
 On there turn, one may either place a pomeczo on the board, or move a pomeczo by one cell. A pomeczo can push another pomeczo one cell.
 ```
 o|o|o|o
+-+-+-+-
 o|+|o|o
+-+-+-+-
 o|+|o|o
+-+-+-+-
 o|o|o|o
 
 ```
