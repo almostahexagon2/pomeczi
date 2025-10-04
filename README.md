@@ -3,7 +3,7 @@ Pomeczi (pronounced POH-meh-chi) (short for pomeczuxo) is a board game designed 
 
 # Items
 The board is a 4x4 grid 16 cells. Other variants may exist in the future.
-<img src="/board.webp" alt="board" height="400">
+<img src="/board.webp" alt="board" height="500">
 
 This game is played by two players.
 
