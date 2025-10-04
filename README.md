@@ -8,13 +8,10 @@ The board is a 4x4 grid 16 cells. Other variants may exist in the future.
 This game is played by two players.
 
 There are a total of 6 tiles, 4 of which are 1x1 cells and two that are 2x1 cells.
-<div align="left">
-  <img src="/1x1-dots.webp" alt="Centered Image" width="400">
-</div>
-
-<div align="right">
-  <img src="1x2-dots.webp" alt="" width="400">
-</div>
+<p float="left">
+  <img src="/1x1-dots.webp" width="200" />
+  <img src="/1x2-dots.webp" width="200" /> 
+</p>
 
 Tiles are double-sided. Every tile has two sides: one side has a “dot” and the other side has a “plus”.
 
