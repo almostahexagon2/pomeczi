@@ -9,10 +9,10 @@ This game is played by two players.
 
 There are a total of 6 tiles, 4 of which are 1x1 cells and two that are 2x1 cells.
 <p float="left">
-  <img src="/1x1-dots.webp" width="200" />
-  <img src="/1x2-dots.webp" width="200" /> 
+  <img src="/1x1-dots.webp" width="400" />
+  <img src="/1x2-dots.webp" width="400" /> 
 </p>
-
+<img src="/all-tiles.webp" alt="board" height="500">
 Tiles are double-sided. Every tile has two sides: one side has a “dot” and the other side has a “plus”.
 
 Both players are assigned to a symbol (plus or dot). One 2x1 tile and two 1x1 tiles are given to each player. The players then flip their tiles so that the symbol on the sides facing upwards matches the assigned symbol.
